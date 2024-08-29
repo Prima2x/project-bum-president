@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 27 Aug 2024 23:25:05 at https://bumforpresident.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://bumforpresident.com -O1 "C:\Users\solda\Desktop\bum-forlife" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:25:09	Error: 	"Not Found" (404) at link https://bumforpresident.com/t (from https://bumforpresident.com/)
+23:25:12	Error: 	"Not Found" (404) at link https://bumforpresident.com/"https://discord.gg/qN2yTYBYUe/" (from https://bumforpresident.com/about)
+
+HTTrack Website Copier/3.49-2 mirror complete in 7 seconds : 17 links scanned, 14 files written (5864783 bytes overall) [5522388 bytes received at 788912 bytes/sec], 437447 bytes transferred using HTTP compression in 6 files, ratio 15%, 3.4 requests per connection
+(2 errors, 0 warnings, 0 messages)
